@@ -9,7 +9,7 @@ Upload a photo or PDF of a letter from a Behörde, insurer or landlord, and Brie
 
 ## The problem
 
-Anyone who moves to Germany soon learns that important things arrive **by post**, in formal German, full of legal terms:
+Anyone who moves to Germany soon learns that important things that arrive **by post**, in formal German, full of legal terms:
 
 > *„Gegen diesen Bescheid kann innerhalb eines Monats nach Bekanntgabe Widerspruch erhoben werden.“*
 
