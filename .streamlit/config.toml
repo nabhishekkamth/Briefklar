@@ -1,0 +1,20 @@
+[server]
+# Letters are small; 20 MB is plenty and keeps requests under the API limit.
+maxUploadSize = 20
+# Privacy: only reachable from this computer, not from other devices on the network.
+address = "localhost"
+
+[browser]
+# Privacy: don't send Streamlit usage telemetry.
+gatherUsageStats = false
+
+[client]
+# Hide Streamlit's developer menu for a cleaner look.
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#a855f7"
+backgroundColor = "#07071a"
+secondaryBackgroundColor = "#14142b"
+textColor = "#eef2ff"

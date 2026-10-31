@@ -1,0 +1,6 @@
+streamlit>=1.40
+google-genai>=1.0
+pydantic>=2.7
+pillow>=10.4
+pillow-heif>=0.18
+python-dotenv>=1.0
